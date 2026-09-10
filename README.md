@@ -25,7 +25,7 @@ The solutions cover a broad spectrum of core programming and algorithmic concept
 
 ## 🛠️ Tech Stack & Requirements
 
-* **Language:** C++ (C++11 or higher recommended)
+* **Language:** C++ (C++ or higher recommended)
 * **IDE / Compiler:** Visual Studio / GCC / Clang
 * **File Structure:**
   * `Solving Problems 1 to 50.cpp` — Main source code file containing all 50 solutions and interactive `main()` tests.
