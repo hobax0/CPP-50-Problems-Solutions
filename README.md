@@ -46,7 +46,7 @@ The solutions cover a broad spectrum of core programming and algorithmic concept
 git clone https://github.com/hobax0/Cplusplus-50-Problems.git
 
 # Navigate to project directory
-cd Cplusplus-50-Problems
+cd CPP-50-Problems-Solutions
 
 # Compile the source code
 g++ -o main "Solving Problems 1 to 50.cpp"
